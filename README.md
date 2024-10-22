@@ -53,18 +53,6 @@
 
 ---
 
-## 💖 Support My Journey:
-If you enjoy my content and want to support me, you can donate to help me keep going!
-
-<p align="center">
-  <a href="https://streamlabs.com/f1resiiii/tip"><img src="https://img.shields.io/badge/Streamlabs-3A8B00?style=for-the-badge&logo=streamlabs&logoColor=white" alt="Donate on Streamlabs"></a>
-</p>
-
----
-
-![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-
 ---
 
 ## 📫 Want to Get in Touch?
@@ -73,3 +61,13 @@ Feel free to reach out to me on [Discord](https://discord.gg/UZzyzQMD), [YouTube
 ---
 
 **Thanks for stopping by! Let's keep coding together!**
+
+---
+
+## 💖 Support My Journey:
+If you enjoy my content and want to support me, you can donate to help me keep going!
+
+<p align="center">
+  <a href="https://streamlabs.com/f1resiiii/tip"><img src="https://img.shields.io/badge/Streamlabs-3A8B00?style=for-the-badge&logo=streamlabs&logoColor=white" alt="Donate on Streamlabs"></a>
+</p>
+
