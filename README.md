@@ -1,6 +1,7 @@
 # Hello, I'm F1RESIII 👋
 
-![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) *Olá* from **Portugal**! I'm F1RESIII, and I'm just starting my exciting journey into the world of **code**. I’m passionate about learning, growing, and building cool things along the way. Let’s dive into my world! 🌍
+*Olá* from **Portugal**! I'm F1RESIII, and I'm just starting my exciting journey into the world of **code**. I’m passionate about learning, growing, and building cool things along the way. Let’s dive into my world! 🌍
+
 
 ---
 
