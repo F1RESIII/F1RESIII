@@ -1,35 +1,79 @@
 # Hello, I'm F1RESIII 👋
 
+![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) *Olá* from **Portugal**! I'm F1RESIII, and I'm just starting my exciting journey into the world of **code**. I’m passionate about learning, growing, and building cool things along the way. Let’s dive into my world! 🌍
+
+---
+
 ## 🚀 About Me:
-I'm from **Portugal**, and I just started my journey in coding. I’m passionate about learning new technologies and pushing my skills further every day. I love to code and explore new tools, always looking for ways to improve and grow!
+- 💻 I’m learning to code with **Python**, **HTML**, **Java**, and **CSS**.
+- 🛡️ I'm also diving into **Cybersecurity Basics** to understand how to keep systems safe.
+- 🖥️ I use both **Windows** and **Linux** and love exploring both environments.
+- 🚀 I’m passionate about learning **more and more** every day.
 
-## 🧑‍💻 What I'm Learning:
-- **Languages**: Python, HTML, Java, CSS
-- **Cybersecurity Basics**: Exploring the fundamentals of keeping systems safe.
-- **Operating Systems**: Windows & Linux
+---
 
-I’m dedicated to learning more and more, and excited to see where this journey takes me.
-
-## 💡 What’s Next?
-I’m focused on improving my coding skills, learning advanced concepts in cybersecurity, and contributing to projects that make an impact!
-
-## 🌐 Connect With Me:
-- 📧 Email: [coding.rodrigo@gmail.com](mailto:coding.rodrigo@gmail.com)
-- 📺 [YouTube](https://www.youtube.com/channel/UCIydUd7c4o4mX7PmpL1ZSBQ)
-- 💬 [Discord](https://discord.gg/UZzyzQMD)
-- 🎮 [Twitch](https://www.twitch.tv/f1resiiii)
-
-## 💖 Support My Journey:
-If you'd like to support my coding adventure and future content, feel free to donate:
-- 💸 [Donate on Streamlabs](https://streamlabs.com/f1resiiii/tip)
-
-## 🔥 GitHub Stats:
+## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f1resiii&show_icons=true&theme=radical" alt="F1RESIII's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1resiii&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=f1resiii&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="F1RESIII's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f1resiii&show_icons=true&theme=radical&hide_border=true" alt="F1RESIII's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1resiii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🛠️ Tools I Use:
-- **Windows & Linux**: Comfortable working in both environments
-- **VSCode**: My go-to code editor
-- **Git**: For version control and collaboration
+---
+
+## 🌐 Connect With Me:
+
+<p align="center">
+  <a href="mailto:coding.rodrigo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.youtube.com/channel/UCIydUd7c4o4mX7PmpL1ZSBQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://discord.gg/UZzyzQMD"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.twitch.tv/f1resiiii"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+</p>
+
+---
+
+## 💖 Support My Journey:
+If you enjoy my content and want to support me, you can donate to help me keep going!
+
+<p align="center">
+  <a href="https://streamlabs.com/f1resiiii/tip"><img src="https://img.shields.io/badge/Streamlabs-3A8B00?style=for-the-badge&logo=streamlabs&logoColor=white" alt="Donate on Streamlabs"></a>
+</p>
+
+---
+
+## 🛠️ Tools & Tech I Use:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+## 🎯 Future Goals:
+- 🌱 **Continue learning and improving** in Python, HTML, Java, CSS, and Cybersecurity.
+- 💻 Start contributing to **open-source projects**.
+- 🎯 Learn **JavaScript** and dive deeper into **full-stack development**.
+- 🔐 Strengthen my knowledge in **Cybersecurity**.
+
+---
+
+## 🎉 Fun Facts About Me:
+- 🌍 I’m from beautiful **Portugal**.
+- 🎮 I love streaming and interacting with people on **Twitch**.
+- 🎧 I'm a big fan of tech podcasts and coding streams.
+
+![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
+## 📫 Want to Get in Touch?
+Feel free to reach out to me on [Discord](https://discord.gg/UZzyzQMD), [YouTube](https://www.youtube.com/channel/UCIydUd7c4o4mX7PmpL1ZSBQ), or via [email](mailto:coding.rodrigo@gmail.com).
+
+---
+
+**Thanks for stopping by! Let's keep coding together!**
